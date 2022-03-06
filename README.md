@@ -9,34 +9,31 @@
 
 ## HTML 이론/개념
 
-[1. Basic Grammars](https://www.notion.so/1-Basic-Grammars-a0391995b8764d6c8305caa2a9a7e230)
+[1. Basic Grammars](https://fallacious-smash-138.notion.site/1-Basic-Grammars-a0391995b8764d6c8305caa2a9a7e230)
 
-[1-1. HTML Structure ](https://www.notion.so/1-1-HTML-Structure-cfb48e2883dc4c13aaa649e26da837da)
+[1-1. HTML Structure ](https://fallacious-smash-138.notion.site/1-1-HTML-Structure-cfb48e2883dc4c13aaa649e26da837da)
 
-[1. HTML 기본 문서 만들기](https://www.notion.so/1-HTML-ac291519fad04fa39c500e5c01aff698)
+[1. HTML 기본 문서 만들기](https://fallacious-smash-138.notion.site/1-HTML-ac291519fad04fa39c500e5c01aff698)
 
-[2. 웹 문서에 다양한 내용 입력하기](https://www.notion.so/2-141b45e580c34744ad046912a4630b0f)
+[2. 웹 문서에 다양한 내용 입력하기](https://fallacious-smash-138.notion.site/2-141b45e580c34744ad046912a4630b0f)
 
-[2. HTML Tag (1)](https://www.notion.so/2-HTML-Tag-1-c03118345d2c4c4fbf949e2ad4639c73)
+[2. HTML Tag (1)](https://fallacious-smash-138.notion.site/2-HTML-Tag-1-c03118345d2c4c4fbf949e2ad4639c73)
 
-[2. HTML Tag (2)](https://www.notion.so/2-HTML-Tag-2-f1b53a4ababd485ba0c001e41cf72599)
+[2. HTML Tag (2)](https://fallacious-smash-138.notion.site/2-HTML-Tag-2-f1b53a4ababd485ba0c001e41cf72599)
 
-[2. HTML Tag (3)](https://www.notion.so/2-HTML-Tag-3-eac04d2f3c404ff0b342ea266b9f6e61)
+[2. HTML Tag (3)](https://fallacious-smash-138.notion.site/2-HTML-Tag-3-eac04d2f3c404ff0b342ea266b9f6e61)
 
-[2-1. HTML Form (1) - input](https://www.notion.so/2-1-HTML-Form-1-input-e54a996f035e485187e07d9d2ca09995)
+[2-1. HTML Form (1) - input](https://fallacious-smash-138.notion.site/2-1-HTML-Form-1-input-e54a996f035e485187e07d9d2ca09995)
 
-[2-1. HTML Form (2) - select, text area, button, label, field set, form](https://www.notion.so/2-1-HTML-Form-2-select-text-area-button-label-field-set-form-b19311f748484eeaa5558ed65ba6990a)
+[2-1. HTML Form (2) - select, text area, button, label, field set, form](https://fallacious-smash-138.notion.site/2-1-HTML-Form-2-select-text-area-button-label-field-set-form-b19311f748484eeaa5558ed65ba6990a)
 
-[3. 입력 양식 작성하기](https://www.notion.so/3-4a0bced55b004d4483c7c5abfb35fd64)
+[3. 입력 양식 작성하기](https://fallacious-smash-138.notion.site/3-4a0bced55b004d4483c7c5abfb35fd64DS)
 
-[3-1. Contents Model](https://www.notion.so/3-1-Contents-Model-a2c6af6b41dc46d3afa91f3db84d319e)
+[3-1. Contents Model](https://fallacious-smash-138.notion.site/3-1-Contents-Model-a2c6af6b41dc46d3afa91f3db84d319e)
 
-[3-2. Semantic markup](https://www.notion.so/3-2-Semantic-markup-d1e221d3bd574439a37e20c26d846aa4)
+[3-2. Semantic markup](https://fallacious-smash-138.notion.site/3-2-Semantic-markup-d1e221d3bd574439a37e20c26d846aa4)
 
-[3-3. Block & Inline level](https://www.notion.so/3-3-Block-Inline-level-40ba25a0a07b497595a1eeaca40b2006)
+[3-3. Block & Inline level](https://fallacious-smash-138.notion.site/3-3-Block-Inline-level-40ba25a0a07b497595a1eeaca40b2006)
 
-[3-3. Block & Inline level](https://www.notion.so/3-3-Block-Inline-level-95e8764f657749dc8cd6d593515075ef)
+[3-4. Semantic markup](https://fallacious-smash-138.notion.site/3-4-Semantic-markup-b4a95f1fdc0648bfa9c24ea65d97b733)
 
-[3-2. Semantic markup](https://www.notion.so/3-2-Semantic-markup-b4a95f1fdc0648bfa9c24ea65d97b733)
-
-[3-1. Contents Model](https://www.notion.so/3-1-Contents-Model-4ce314718280440c9f94515cec3d513b)
